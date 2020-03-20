@@ -39,7 +39,7 @@
             {
                 "language": "apdl",
                 "scopeName": "source.apdl",
-                "path": "./syntaxes/apdl.tmLanguage"
+                "path": "./syntaxes/apdl.tmLanguage.json"
             }
         ]
     }
