@@ -7,6 +7,8 @@ finish
 
 !~PARAIN,'test','x_t','C:\test',SOLID,0,0
 
+*CFCLOS
+
 /NOPR
 /GO
 
