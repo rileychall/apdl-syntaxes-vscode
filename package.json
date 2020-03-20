@@ -1,20 +1,19 @@
 {
-    "name": "apdl",
-    "displayName": "APDL",
+    "name": "apdl-syntax-highlighting",
+    "displayName": "APDL Syntax Highlighting",
     "description": "APDL(ANSYS Parametric Design Language) Language Support for VS Code.",
-    "version": "0.1.2",
-    "publisher": "shenbo",
+    "version": "0.1.3",
+    "publisher": "RileyHall",
     "engines": {
         "vscode": "^1.23.1"
     },
     "icon": "images/logo-ansys.jpg",
     "categories": [
-        "Languages",
-        "Snippets"
+        "Programming Languages"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/shenbo/apdl-syntaxes-vscode"
+        "url": "https://github.com/rileychall/apdl-syntaxes-vscode"
     },
     "contributes": {
         "languages": [
