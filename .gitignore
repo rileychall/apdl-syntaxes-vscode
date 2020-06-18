@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# ANSYS help index, originally located in [ANSYS install folder]/commonfiles/help
+ansys_index.hlp
+
+*.vsix
